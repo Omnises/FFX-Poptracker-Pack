@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Region: Baaj Temple",
+        "type": "toggle",
+        "codes": "baaj_temple"
+    },
+    {
+        "name": "Region: Besaid",
+        "type": "toggle",
+        "codes": "besaid"
+    },
+    {
+        "name": "Region: Kilika",
+        "type": "toggle",
+        "codes": "kilika"
+    },
+    {
+        "name": "Region: Luca",
+        "type": "toggle",
+        "codes": "luca"
+    },
+    {
+        "name": "Region: Mi'ihen Highroad",
+        "type": "toggle",
+        "codes": "miihen_highroad"
+    },
+    {
+        "name": "Region: Mushroom Rock Road",
+        "type": "toggle",
+        "codes": "mushroom_rock_road"
+    },
+    {
+        "name": "Region: Djose",
+        "type": "toggle",
+        "codes": "djose"
+    },
+    {
+        "name": "Region: Moonflow",
+        "type": "toggle",
+        "codes": "moonflow"
+    },
+    {
+        "name": "Region: Guadosalam",
+        "type": "toggle",
+        "codes": "guadosalam"
+    },
+    {
+        "name": "Region: Thunder Plains",
+        "type": "toggle",
+        "codes": "thunder_plains"
+    },
+    {
+        "name": "Region: Macalania",
+        "type": "toggle",
+        "codes": "macalania"
+    },
+    {
+        "name": "Region: Bikanel",
+        "type": "toggle",
+        "codes": "bikanel"
+    },
+    {
+        "name": "Region: Bevelle",
+        "type": "toggle",
+        "codes": "bevelle"
+    },
+    {
+        "name": "Region: Calm Lands",
+        "type": "toggle",
+        "codes": "calm_lands"
+    },
+    {
+        "name": "Region: Cavern of the Stolen Fayth",
+        "type": "toggle",
+        "codes": "cavern_of_the_stolen_fayth"
+    },
+    {
+        "name": "Region: Mt. Gagazet",
+        "type": "toggle",
+        "codes": "mt_gagazet"
+    },
+    {
+        "name": "Region: Zanarkand Ruins",
+        "type": "toggle",
+        "codes": "zanarkand_ruins"
+    },
+    {
+        "name": "Region: Sin",
+        "type": "toggle",
+        "codes": "sin"
+    },
+        {
+        "name": "Region: Airship",
+        "type": "toggle",
+        "codes": "airship"
+    },
+    {
+        "name": "Region: Omega Ruins",
+        "type": "toggle",
+        "codes": "omega_ruins"
+    }
+]

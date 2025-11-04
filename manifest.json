@@ -1,0 +1,19 @@
+{
+    "name": "Final Fantasy X HD AP Tracker",
+    "game_name": "Final Fantasy X HD",
+    "package_version": "0.0.1",
+    "package_uid": "FFXHD_Omnises",
+    "platform": "PC", 
+    "author": "Omnises",
+    "variants": {
+        "map_vertical": {
+            "display_name": "Map Tracker (Vertical)",
+            "flags": ["ap"]
+        },
+        "map_horizontal": {
+            "display_name": "Map Tracker (Horizontal)", 
+            "flags": ["ap"]
+        }
+    },
+    "versions_url": "https://raw.githubusercontent.com/Omnises/FFX-Poptracker-Pack/versions/versions.json"
+}
